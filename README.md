@@ -1,3 +1,3 @@
-# Carolina Common
+# Open Seat
 
-Independent UNC student project. Study matching, groups, questions, and profiles use sample data and browser-local storage.
+Independent UNC student project for finding study groups and connecting with classmates. Sample profiles and browser-local interactions.
